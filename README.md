@@ -26,7 +26,6 @@
 
 <h3>Technical Skills💻</h3>
 
-<! –– 
 - Python
 - R
 - SQL
@@ -36,39 +35,11 @@
 - Tensorflow
 - PyTorch
 - Tableau
-- Data Modelling
 - Data Mining
+- Statistical Data Modelling
 - Text Mining/Information Retrieval
 - Applied Machine Learning
 - Deep Learning
-––>
-
-<table>
-  <tr>
-    <td>Python</td>
-    <td>R</td>
-    <td>SQL</td>
-    <td>Applied Machine Learning</td>
-  </tr>
-  <tr>
-    <td>Django</td>
-    <td>AWS</td>
-    <td>Data Mining</td>
-    <td>Text Mining/Information Retreival</td>
-  </tr>
-  <tr>
-    <td>Tensorflow</td>
-    <td>Pytorch</td>
-    <td>Opencv</td>
-    <td>Keras</td>
-  </tr>
-  <tr>
-    <td>Tableau</td>
-    <td>Deep Learning</td>
-    <td>Statistical Data Modelling</td>
-    <td>NLP</td>
-  </tr>
-</table>
 
 <hr>
 
