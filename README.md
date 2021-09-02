@@ -6,6 +6,8 @@
 
 - ✒️ I am a machine learning enthusiast passionate about data engineering, data modelling, deep learning and AI in general. Pursuing a master’s degree in data science at Stevens Institute Of Technology and excited to intern/work at firms offering machine learning roles.
 
+<hr>
+
 ### Connect with me on:
 
 <div>
@@ -20,6 +22,8 @@
     </a>&nbsp;&nbsp;
 </div>
 
+<hr>
+
 <h3>Technical Skills💻</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -32,4 +36,10 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
+<hr>
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=siddheshshaji&count_private=true&show_icons=true&theme=algolia&hide_rank=false"  width="400px" alt="siddheshshaji">
 </div>
