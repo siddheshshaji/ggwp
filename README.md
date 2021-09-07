@@ -8,22 +8,6 @@
 
 <hr>
 
-### Connect with me on 💬 :
-
-<div>
-    <a href="https://www.linkedin.com/in/siddhesh-shaji-74149018a/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="mailto: sshaji@stevens.edu">
-        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/siddheshshaji">
-        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
-    </a>&nbsp;&nbsp;
-</div>
-
-<hr>
-
 <h3>Technical Skills💻</h3>
 
 - Python
@@ -46,3 +30,20 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=siddheshshaji&count_private=true&show_icons=true&theme=algolia&hide_rank=false"  width="400px" alt="siddheshshaji">
 </div>
+
+<hr>
+
+### Connect with me on 💬 :
+
+<div>
+    <a href="https://www.linkedin.com/in/siddhesh-shaji-74149018a/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: sshaji@stevens.edu">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/siddheshshaji">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
+
