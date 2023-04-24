@@ -2,10 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=siddheshshaji" alt="siddheshshaji"> 
 </div>
 
-### Hello :)
-
-- A machine learning enthusiast, passionate about data science, data engineering, deep learning and AI in general. I have a master’s degree in data science from Stevens Institute of Technology and am looking forward to working for firms offering data science and machine learning roles.
-
+### 
 <hr>
 
 <h3>Technical Skills💻</h3>
